@@ -1,6 +1,6 @@
 -- ================================================================
 -- E-COMMERCE SALES ANALYSIS PROJECT
--- PROJECT BY: CHIDI ONOCHIE RONALD
+-- PROJECT BY: CHIDI PHEBE TOYEIBAT
 -- ================================================================
 --
 -- This script follows the required student project workflow:
@@ -1373,7 +1373,7 @@ FROM ecommerce_sales;
 -- ================================================================
 
 SELECT
-    'PROJECT BY CHIDI ONOCHIE RONALD' AS Project_Owner,
+    'PROJECT BY CHIDI PHEBE TOYEIBAT' AS Project_Owner,
     'ecommerce_analytics' AS Database_Name,
     'ecommerce_sales' AS Table_Name,
     COUNT(*) AS Final_Row_Count,
@@ -1384,7 +1384,7 @@ FROM ecommerce_sales;
 
 -- ================================================================
 -- END OF SQL PROJECT
--- PROJECT BY: CHIDI ONOCHIE RONALD
+-- PROJECT BY: CHIDI PHEBE TOYEIBAT
 -- ================================================================
 
 
