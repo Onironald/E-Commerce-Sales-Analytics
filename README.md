@@ -6,7 +6,7 @@ An end-to-end data analytics project that transforms a Superstore-style e-commer
 
 The final deliverables include a **four-page Power BI dashboard**, a **business report**, and an **executive PowerPoint presentation**.
 
-**Team:** Chidi · Phoebe · Toyeibat
+**Team:** Chidi · Phebe · Toyeibat
 
 ---
 
@@ -557,7 +557,7 @@ The analysis has several limitations:
 
 Data analysis, SQL, Power BI, business insights, documentation
 
-### Phoebe
+### Phebe
 
 Data analysis, Power BI, business analysis, documentation
 
@@ -576,7 +576,7 @@ Data analysis, Power BI, business analysis, documentation
 | SQL analysis          | [`sql/ecommerce_analytics.sql`](sql/ecommerce_analytics.sql)                                                                   |
 | Power BI dashboard    | [`dashboard/ecommerce_analytics.pbix`](dashboard/ecommerce_analytics.pbix)                                                     |
 | Dashboard screenshots | [`dashboard/screenshots/`](dashboard/screenshots/)                                                                             |
-| Business report       | [`reports/Ecommerce_Business_Report_Chidi_Phoebe_Toyeibat.docx`](reports/Ecommerce_Business_Report_Chidi_Phoebe_Toyeibat.docx) |
+| Business report       | [`reports/Ecommerce_Business_Report_Chidi_Phebe_Toyeibat.docx`](reports/Ecommerce_Business_Report_Chidi_Phebe_Toyeibat.docx) |
 | Presentation          | [`presentation/Ecommerce_Sales_Analytics.pptx`](presentation/Ecommerce_Sales_Analytics.pptx)                                   |
 
 ---
