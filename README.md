@@ -555,7 +555,7 @@ The analysis has several limitations:
 
 ### Chidi
 
-Data analysis, SQL, Power BI, business insights, documentation
+Data cleaning and validation in MySQL, DAX measures, Power BI dashboard, business insights, documentation
 
 ### Phebe
 
